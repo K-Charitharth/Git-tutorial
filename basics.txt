@@ -7,4 +7,4 @@ git push -u origin main -- to push local repo to remote repo[Here -u stands for 
 									pushing into same branch u can give -u so that next time when u push u can just give "git push"]
 git checkout <existing_branch_name> -- to switch to another branch
 git checkout -b <new_branch_name> -- to create and switch to the new branch
-git checkout -d <existing_branch_name> -- TO delete an exisiting breanch
+git checkout -d <existing_branch_name> -- TO delete an exisiting the branch
