@@ -1,0 +1,10 @@
+git init --initialize
+git remote add origin <link> -- to connect repo to remote git
+git remote -v -- to verify the remote git
+git branch -- TO check the branch it is currently
+git branch -M <new_name> -- TO renama the branch
+git push -u origin main -- to push local repo to remote repo[Here -u stands for upstream i.e., If you are continuosly working and
+									pushing into same branch u can give -u so that next time when u push u can just give "git push"]
+git checkout <existing_branch_name> -- to switch to another branch
+git checkout -b <new_branch_name> -- to create and switch to the new branch
+git checkout -d <existing_branch_name> -- TO delete an exisiting breanch
